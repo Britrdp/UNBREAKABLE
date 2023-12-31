@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="wing" horiz-adv-x="1000" >
+<font-face font-family="wing" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="wing" unicode="&#xe800;" d="M1624 850l-662-265a75 75 0 0 1-25-17l-125-124-124 124a75 75 0 0 1-26 17l-662 265h0a239 239 0 0 1 116-205l561-336v-237a209 209 0 0 1 61-148l74-74 74 74a209 209 0 0 1 61 148v237l561 336a239 239 0 0 1 116 205z" horiz-adv-x="1624" />
+</font>
+</defs>
+</svg>
