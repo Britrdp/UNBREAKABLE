@@ -12,15 +12,7 @@ function hearts(){
     setTimeout(() => {
         creat.remove();
     }, 3000);
-}
 
-setInterval(hearts, 100);
-
-//Scrolling to bottom
-const scrollingElement = (document.scrollingElement || document.body);
-
-const scrollToBottom = () => {
-    scrollingElement.scrollTop = scrollingElement.scrollHeight;
 }
  
 
