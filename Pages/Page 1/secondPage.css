@@ -88,7 +88,7 @@ h1{
 }
 
 .beauti::before{
-    content: "MAROUA KANLOVIKK !!!!!!";
+    content: "";
     position: absolute;
     width: 0%;
     height: 100%;
@@ -98,7 +98,7 @@ h1{
     animation: slidein infinite 1.5s;
 }
 .gorg::before{
-    content: "GORGEOUSSSSS KNBGHIK ILVY JTMM!!!!!!";
+    content: "";
     position: absolute;
     width: 0%;
     height: 100%;
@@ -109,7 +109,7 @@ h1{
     animation-direction: reverse;
 }
 .wow::before{
-    content: "NTI HEYA MARKZ LKAWN!!!!!!";
+    content: "";
     position: absolute;
     width: 0%;
     height: 100%;
